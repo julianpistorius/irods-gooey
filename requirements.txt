@@ -1,0 +1,7 @@
+RXPY>=0.1.0
+wxpython==4.0.7
+Pillow>=4.3.0
+psutil>=5.4.2
+Gooey>=1.0.1
+colored>=1.3.93
+python-irodsclient>=0.8.2
